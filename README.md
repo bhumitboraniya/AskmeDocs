@@ -20,11 +20,11 @@ pip install faiss-cpu
 # after installing run this command:
 streamlit run app.py
 
-
+# Description:
 This project makes it easy for people to talk to their PDF documents using a simple website. With the help of Streamlit, users can ask questions or find information within their uploaded PDF files, and quickly get answers that make sense. It's like having a conversation with your documents!
 
 # Key Features:
-Free: It's free to use there are no charge or limitations.
+Free: It's free to use there are no charge or any limitations.
 Multiple docs: User can upload pdf,ppt,docx and text with our application
 Document Upload: Users can easily upload one or multiple PDF documents through the user-friendly interface.
 Natural Language Interaction: Engage in natural language conversations by typing queries or questions directly into the provided text input box.
@@ -47,14 +47,12 @@ Efficiency: Extract information from multiple documents swiftly, saving time and
 Interactivity: Engage in dynamic conversations with the system, promoting an interactive and engaging user experience.
 
 # Guidelines for contributing to the project.
-
 1. Fork the repository.
 2. Create a new branch('git checkout -b feature/fooBar').
 3. Make your changes.
 4. Commit your changes('git commit -am 'Add some fooBar'').
 5. Push to the branch('git push origin feature/fooBar').
 Create a new Pull Request.
-
 
 # if any error occurs then you can try:
 from langchain_community.embeddings import SentenceTransformerEmbeddings
