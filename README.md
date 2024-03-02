@@ -25,6 +25,25 @@ from langchain_community.embeddings import SentenceTransformerEmbeddings
 conda install pytorch torchvision cudatoolkit=10.0 -c pytorch
 pip install -U sentence-transformers
 
+## Credits
+
+### Dependencies
+
+- [Streamlit](https://streamlit.io/) - Framework for building interactive web applications with Python.
+- [PyPDF2](https://github.com/mstamy2/PyPDF2) - Library for reading and manipulating PDF files in Python.
+- [python-pptx](https://python-pptx.readthedocs.io/) - Library for working with PowerPoint (.pptx) files in Python.
+- [python-docx](https://python-docx.readthedocs.io/) - Library for creating and modifying Word (.docx) files in Python.
+- [langchain](https://github.com/example/langchain) - [Brief description or purpose of the langchain library.]
+
+### Third-Party APIs
+
+- [Hugging Face Model Hub](https://huggingface.co/models) - Repository of pre-trained models and datasets for natural language processing tasks.
+
+### Assets
+
+- [HTML Templates](https://example.com/html-templates) - [Brief description of the HTML templates used in your project.]
+
+
 # Project Details:
 
 Description:
